@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-PUBLISHED-URL with your actual site URL before submitting this sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://YOUR-PUBLISHED-URL/</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/tools.html</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/categories.html</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/guides.html</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/about.html</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/contact.html</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/privacy.html</loc></url>
+<url><loc>https://YOUR-PUBLISHED-URL/disclaimer.html</loc></url>
+</urlset>
